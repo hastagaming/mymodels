@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyModels</string>
+    <string name="login_title">Welcome!</string>
+    <string name="login_subtitle">Log in with GitHub to continue</string>
+    <string name="btn_github_login">Log in with github</string>
+    <string name="loading">Loading...</string>
+    <string name="error_login">Login failed, please try again</string>
+    <string name="logout">Exit</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_models">Models</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_memory">Memory</string>
+    <string name="nav_settings">Settings</string>
+</resources>
